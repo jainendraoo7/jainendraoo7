@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jainendra Singh Shekhawat</h1>
+  <h1 align="center">Hi 👋, I'm Jainendra Singh Shekhawat</h1>
 <h3 align="center">Java Backend Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-About me
-I'm a Java Backend Developer, having knowledge of core Java, spring boot as well as some frontend technologies like html, css and Javascript. I'm passionate about building the projects using the technical knowledge, that I gained.
+<h2>About me</h2>
+<p class="about">I'm a Java Backend Developer, having knowledge of core Java, spring boot as well as some frontend technologies like html, css and Javascript. I'm passionate about building the projects using the technical knowledge, that I gained.
 I'm Open to the opportunities wherein I can make my skills more robust and escalate with progress.
-Belief - There's no shortcut to success..
+Belief - There's no shortcut to success..</p>
+
+
 - 📫 How to reach me **jainendrasingh398@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
