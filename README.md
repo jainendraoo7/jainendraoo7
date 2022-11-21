@@ -4,6 +4,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h2 align = "center">About Me</h2>
  <p >Aspiring Java Backend Developer. Problem-solving mindset with a positive attitude and a willingness to learn new technologies. I am looking for a hopeful role in a company where I can utilize my skills and experience to contribute to the success of the team and the organization.</p>
 - 🔭 I’m currently working on **Java Backend Projects**
 
